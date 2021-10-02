@@ -185,3 +185,6 @@ dist
 .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/mean,macos
+
+test.js
+.env
